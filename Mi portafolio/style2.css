@@ -1,0 +1,23 @@
+form{
+    font-family:serif, sans-serif,monospace;
+    color: #999;
+    margin: auto;
+    width: 580px;
+    background-color: beige;
+    box-sizing:border-box ;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    }
+    input, textarea{
+        outline: none;
+        border:solid 1px #ccc;
+        width: 500px;
+        padding: 10px;
+        color: #999;
+    }
+    input.bt{
+        color: aliceblue;
+        background-color: rgb(224, 146, 206);
+    }
+    
